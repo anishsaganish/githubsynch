@@ -76,8 +76,6 @@
     <Build Include="Security\RoleMemberships.sql" />
     <Build Include="Server Objects\AlwaysOn_health.sql" />
     <Build Include="Server Objects\telemetry_xevents.sql" />
-    <Build Include="FileTable1.sql" />
-    <Build Include="ExternalDataSource1.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Snapshots\githubsynch_20181016_13-57-45.dacpac" />
